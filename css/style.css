@@ -1,18 +1,21 @@
-body {
-    background-color: lightskyblue;
+html {
+    width: 1140px;
+    margin: 20px;
+}
 
+body {
+    background-color:  lightskyblue;
     font-weight: normal;
     font-style: normal;
     font-size: 1em;
     line-height: 1.4;
     font-family: Arial, Helvetica, sans-serif;
-
     font: normal normal 1em/1.4 arial,helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
-    background-color: magenta;
+    background-color: rgb(172, 94, 172);
 }
 
 h2 {
