@@ -1,6 +1,5 @@
 html {
-    width: 1140px;
-    margin: 20px;
+    margin: 2em;
 }
 
 body {
@@ -20,6 +19,7 @@ h1 {
 
 h2 {
     background-color: mediumseagreen;
+    text-align: center;
 }
 
 .prod-john {
@@ -28,5 +28,21 @@ h2 {
 
 a {
     text-decoration: none;
-    
+}
+
+dd {
+    margin-bottom: 1em;
+}
+
+img {
+    margin-left: 25em;
+}
+
+blockquote {
+    margin-left: 25em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+cite a {
+    color: blueviolet;
 }
